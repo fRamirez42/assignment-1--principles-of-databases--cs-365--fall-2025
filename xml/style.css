@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+:root,
+:root::before,
+university,
+university::before,
+student {
+  display:block;
+  margin-bottom: 1.5em;
+}
+
+:root{
+  margin: 0 auto;
+  width: 1200px;
+  font: 200 16px 'Oswald', serif;
+}
+
+:root::before{
+  content: 'University of Hartford';
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 24px 0;
+}
+
+title{
+  margin: 4px 0;
+  font-style: italic;
+  font: 200 16px 'Ubuntu', serif;
+  display: inline-block;
+}
+
+p-name{
+  display: inline;
+}
+
+p-name::before{
+  content: '(';
+}
+
+p-name::after{
+  content: ')';
+}
+
+p-name:empty {
+  display: none;
+}
+
+student-info{
+  display: flex;
+}
+
+s-id::after{
+  content: ' |';
+}
+
+email::before {
+  content: "\00a0";
+}
+
+email::after{
+  content: ' |';
+}
+
+phone::before {
+  content: "\00a0";
+}
+
+phone::after{
+  content: ' |';
+}
+
+status-year::before {
+  content: "\00a0";
+}
+
+status-year::after{
+  content: ' |';
+}
+
+gpa::before {
+  content: "\00a0";
+}
+
+gpa::after{
+  content: ' GPA |';
+}
+
+major::before {
+  content: "\00a0";
+}
+
+major::after{
+  content: ' ~';
+}
+
+minor::before {
+  content: "\00a0";
+}
+
+minor::after{
+  content: ' |';
+}
+
+status-time::before {
+  content: "\00a0";
+}
+
+status-time::after{
+  content: ' |';
+}
+
+advisor::before {
+  content: "\00a0";
+}
+
+advisor::after{
+  content: ' |';
+}
+
+date-start::before {
+  content: "\00a0";
+}
+
+date-start::after{
+  content: ' |';
+}
+
+graduation::before {
+  content: "\00a0";
+}

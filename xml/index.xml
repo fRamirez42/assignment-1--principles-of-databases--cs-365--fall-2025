@@ -1,1 +1,97 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<!DOCTYPE student-person SYSTEM "student.dtd">
+
+<student-person>
+  <university name="University of Hartford">
+    <student name="Students:">
+      <title>Gordon Matthew Sumner</title>
+      <p-name>Sting</p-name>
+      <student-info>
+        <s-id>1234567</s-id>
+        <email>sting@thepolice.com</email>
+        <phone>212.123.4567</phone>
+        <status-year>First year</status-year>
+        <gpa>4.0</gpa>
+        <major>Music</major>
+        <minor>English</minor>
+        <status-time>Full-time</status-time>
+        <advisor>Andy Summers</advisor>
+        <date-start>08-25-1969</date-start>
+        <graduation>05-01-1973</graduation>
+      </student-info>
+    </student>
+
+    <student>
+      <title>Kim Thayil</title>
+      <p-name/>
+      <student-info>
+        <s-id>4567890</s-id>
+        <email>kim@soundgarden.com</email>
+        <phone>206.123.4567</phone>
+        <status-year>Second year</status-year>
+        <gpa>3.0</gpa>
+        <major>Philosophy</major>
+        <minor>Music</minor>
+        <status-time>Full-time</status-time>
+        <advisor>Chris Cornell</advisor>
+        <date-start>08-25-1978</date-start>
+        <graduation>05-01-1982</graduation>
+      </student-info>
+    </student>
+
+    <student>
+      <title>Saul Hudson</title>
+      <p-name>Slash</p-name>
+      <student-info>
+        <s-id>8302438</s-id>
+        <email>slash@gnr.com</email>
+        <phone>213.456.8392</phone>
+        <status-year>Fouth year</status-year>
+        <gpa>2.0</gpa>
+        <major>Music</major>
+        <minor>Criminal Justice</minor>
+        <status-time>Part-time</status-time>
+        <advisor>Axl Rose</advisor>
+        <date-start>08-25-1983</date-start>
+        <graduation>05-01-1987</graduation>
+      </student-info>
+    </student>
+
+    <student>
+      <title>Emily Kokal</title>
+      <p-name/>
+      <student-info>
+        <s-id>2983928</s-id>
+        <email>emily@warpaint.com</email>
+        <phone>213.123.7654</phone>
+        <status-year>Third year</status-year>
+        <gpa>3.8</gpa>
+        <major>Political Science</major>
+        <minor>Law</minor>
+        <status-time>Full-time</status-time>
+        <advisor>Jenny Lee Lindberg</advisor>
+        <date-start>08-25-1998</date-start>
+        <graduation>05-01-2002</graduation>
+      </student-info>
+    </student>
+
+    <student>
+      <title>Mike Inez</title>
+      <p-name/>
+      <student-info>
+        <s-id>7645726</s-id>
+        <email>mike@aic.com</email>
+        <phone>213.444.3323</phone>
+        <status-year>Second year</status-year>
+        <gpa>4.0</gpa>
+        <major>Business Managment</major>
+        <minor>Math</minor>
+        <status-time>Full-time</status-time>
+        <advisor>Jerry Cantrell</advisor>
+        <date-start>08-25-1984</date-start>
+        <graduation>05-01-1988</graduation>
+      </student-info>
+    </student>
+  </university>
+</student-person>

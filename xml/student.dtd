@@ -1,0 +1,19 @@
+<!ELEMENT student-person (university)>
+<!ELEMENT university (title, p-name, student-info)>
+<!ATTLIST university name CDATA #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT p-name (#PCDATA)>
+
+<!ELEMENT student-info (s-id, email, phone, status-year, gpa, major, minor, status-time, advisor, date-start, graduation)>
+<!ELEMENT s-id (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT status-year (#PCDATA)>
+<!ELEMENT gpa (#PCDATA)>
+<!ELEMENT major (#PCDATA)>
+<!ELEMENT minor (#PCDATA)>
+<!ELEMENT status-time (#PCDATA)>
+<!ELEMENT advisor (#PCDATA)>
+<!ELEMENT date-start (#PCDATA)>
+<!ELEMENT graduation (#PCDATA)>
