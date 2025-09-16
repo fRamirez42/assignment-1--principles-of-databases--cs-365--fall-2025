@@ -1,0 +1,57 @@
+{
+  "University-of-Hartford":[{
+    "Students":{
+      "student-Gordon":{
+        "first-name": "Gordon",
+        "middle-name": "Matthew",
+        "last-name": "Sumner",
+        "preffered-name": "Sting",
+        "student-id": "1234567",
+        "email": "sting@thepolice.com",
+        "phone": "212.123.4567",
+        "status-year": "first year",
+        "gpa": "4.0",
+        "major": "Music",
+        "minor": "English",
+        "status-time": "Full-time",
+        "advisor": "Andy Summers",
+        "date-start": "08-25-1969",
+        "date-graduation": "05-01-1973"
+      },
+      "student-Kim":{
+        "first-name": "Kim",
+        "middle-name": "",
+        "last-name": "Thayil",
+        "preffered-name": "",
+        "student-id": "4567890",
+        "email": "kim@soundgarden.com",
+        "phone": "206.123.4567",
+        "status-year": "second year",
+        "gpa": "3.0",
+        "major": "Philosophy",
+        "minor": "Music",
+        "status-time": "Full-time",
+        "advisor": "Chris Cornell",
+        "date-start": "08-25-1978",
+        "date-graduation": "05-01-1982"
+      },
+      "student-Saul":{
+        "first-name": "Saul",
+        "middle-name": "",
+        "last-name": "Hudson",
+        "preffered-name": "Slash",
+        "student-id": "8302438",
+        "email": "slash@gnr.com", //Eneded here -> Keep going
+        "phone": "212.123.4567",
+        "status-year": "first year",
+        "gpa": "4.0",
+        "major": "Music",
+        "minor": "English",
+        "status-time": "Full-time",
+        "advisor": "Andy Summers",
+        "date-start": "08-25-1969",
+        "date-graduation": "05-01-1973"
+      },
+    }
+  }]
+}
