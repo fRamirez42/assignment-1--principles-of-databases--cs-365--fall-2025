@@ -41,17 +41,51 @@
         "last-name": "Hudson",
         "preffered-name": "Slash",
         "student-id": "8302438",
-        "email": "slash@gnr.com", //Eneded here -> Keep going
-        "phone": "212.123.4567",
-        "status-year": "first year",
-        "gpa": "4.0",
+        "email": "slash@gnr.com",
+        "phone": "213.456.8392",
+        "status-year": "fourth year",
+        "gpa": "2.0",
         "major": "Music",
-        "minor": "English",
-        "status-time": "Full-time",
-        "advisor": "Andy Summers",
-        "date-start": "08-25-1969",
-        "date-graduation": "05-01-1973"
+        "minor": "Criminal Justice",
+        "status-time": "Part-time",
+        "advisor": "Axl Rose",
+        "date-start": "08-25-1983",
+        "date-graduation": "05-01-1987"
       },
+      "student-Emily":{
+        "first-name": "Emily",
+        "middle-name": "",
+        "last-name": "Kokal",
+        "preffered-name": "",
+        "student-id": "2983928",
+        "email": "emily@warpaint.com",
+        "phone": "213.123.7654",
+        "status-year": "third year",
+        "gpa": "3.8",
+        "major": "Political Science",
+        "minor": "Law",
+        "status-time": "Full-time",
+        "advisor": "Jenny Lee",
+        "date-start": "08-25-1998",
+        "date-graduation": "05-01-2002"
+      },
+      "student-Mike":{
+        "first-name": "Mike",
+        "middle-name": "",
+        "last-name": "Inez",
+        "preffered-name": "",
+        "student-id": "7645726",
+        "email": "mike@aic.com",
+        "phone": "213.444.3323",
+        "status-year": "second year",
+        "gpa": "4.0",
+        "major": "Buisness Managment",
+        "minor": "Math",
+        "status-time": "Full-time",
+        "advisor": "Jerry Cantrell",
+        "date-start": "08-25-1984",
+        "date-graduation": "05-01-1988"
+      }
     }
   }]
 }

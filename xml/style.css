@@ -23,26 +23,26 @@ student {
   margin: 24px 0;
 }
 
-title{
+name{
   margin: 4px 0;
   font-style: italic;
   font: 200 16px 'Ubuntu', serif;
   display: inline-block;
 }
 
-p-name{
+prefered-name{
   display: inline;
 }
 
-p-name::before{
+prefered-name::before{
   content: '(';
 }
 
-p-name::after{
+prefered-name::after{
   content: ')';
 }
 
-p-name:empty {
+prefered-name:empty {
   display: none;
 }
 
@@ -50,7 +50,7 @@ student-info{
   display: flex;
 }
 
-s-id::after{
+student-id::after{
   content: ' |';
 }
 

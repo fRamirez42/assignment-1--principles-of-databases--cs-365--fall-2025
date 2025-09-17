@@ -5,10 +5,10 @@
 <student-person>
   <university name="University of Hartford">
     <student name="Students:">
-      <title>Gordon Matthew Sumner</title>
-      <p-name>Sting</p-name>
+      <name>Gordon Matthew Sumner</name>
+      <prefered-name>Sting</prefered-name>
       <student-info>
-        <s-id>1234567</s-id>
+        <student-id>1234567</student-id>
         <email>sting@thepolice.com</email>
         <phone>212.123.4567</phone>
         <status-year>First year</status-year>
@@ -23,10 +23,10 @@
     </student>
 
     <student>
-      <title>Kim Thayil</title>
-      <p-name/>
+      <name>Kim Thayil</name>
+      <prefered-name/>
       <student-info>
-        <s-id>4567890</s-id>
+        <student-id>4567890</student-id>
         <email>kim@soundgarden.com</email>
         <phone>206.123.4567</phone>
         <status-year>Second year</status-year>
@@ -41,10 +41,10 @@
     </student>
 
     <student>
-      <title>Saul Hudson</title>
-      <p-name>Slash</p-name>
+      <name>Saul Hudson</name>
+      <prefered-name>Slash</prefered-name>
       <student-info>
-        <s-id>8302438</s-id>
+        <student-id>8302438</student-id>
         <email>slash@gnr.com</email>
         <phone>213.456.8392</phone>
         <status-year>Fouth year</status-year>
@@ -59,10 +59,10 @@
     </student>
 
     <student>
-      <title>Emily Kokal</title>
-      <p-name/>
+      <name>Emily Kokal</name>
+      <prefered-name/>
       <student-info>
-        <s-id>2983928</s-id>
+        <student-id>2983928</student-id>
         <email>emily@warpaint.com</email>
         <phone>213.123.7654</phone>
         <status-year>Third year</status-year>
@@ -77,10 +77,10 @@
     </student>
 
     <student>
-      <title>Mike Inez</title>
-      <p-name/>
+      <name>Mike Inez</name>
+      <prefered-name/>
       <student-info>
-        <s-id>7645726</s-id>
+        <student-id>7645726</student-id>
         <email>mike@aic.com</email>
         <phone>213.444.3323</phone>
         <status-year>Second year</status-year>
