@@ -6,7 +6,7 @@
   <university name="University of Hartford">
     <student>
       <name>Gordon Matthew Sumner</name>
-      <prefered-name>Sting</prefered-name>
+      <preferred-name>Sting</preferred-name>
       <student-info>
         <student-id>1234567</student-id>
         <email>sting@thepolice.com</email>
@@ -24,7 +24,7 @@
 
     <student>
       <name>Kim Thayil</name>
-      <prefered-name/>
+      <preferred-name/>
       <student-info>
         <student-id>4567890</student-id>
         <email>kim@soundgarden.com</email>
@@ -42,12 +42,12 @@
 
     <student>
       <name>Saul Hudson</name>
-      <prefered-name>Slash</prefered-name>
+      <preferred-name>Slash</preferred-name>
       <student-info>
         <student-id>8302438</student-id>
         <email>slash@gnr.com</email>
         <phone>213.456.8392</phone>
-        <status-year>Fouth year</status-year>
+        <status-year>Fourth year</status-year>
         <gpa>2.0</gpa>
         <major>Music</major>
         <minor>Criminal Justice</minor>
@@ -60,7 +60,7 @@
 
     <student>
       <name>Emily Kokal</name>
-      <prefered-name/>
+      <preferred-name/>
       <student-info>
         <student-id>2983928</student-id>
         <email>emily@warpaint.com</email>
@@ -78,14 +78,14 @@
 
     <student>
       <name>Mike Inez</name>
-      <prefered-name/>
+      <preferred-name/>
       <student-info>
         <student-id>7645726</student-id>
         <email>mike@aic.com</email>
         <phone>213.444.3323</phone>
         <status-year>Second year</status-year>
         <gpa>4.0</gpa>
-        <major>Business Managment</major>
+        <major>Business Management</major>
         <minor>Math</minor>
         <status-time>Full-time</status-time>
         <advisor>Jerry Cantrell</advisor>

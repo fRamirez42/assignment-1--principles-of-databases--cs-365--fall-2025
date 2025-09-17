@@ -2,9 +2,9 @@
 <!ELEMENT university (student+)>              <!-- University groups one or more students together -->
 <!ATTLIST university name CDATA #REQUIRED>    <!-- University has a required name attribute -->
 <!-- Student groups core identity (names) separately from detailed info for clarity -->
-<!ELEMENT student (name, prefered-name, student-info)>
+<!ELEMENT student (name, preferred-name, student-info)>
 <!ELEMENT name (#PCDATA)>                     <!-- Name is plain text -->
-<!ELEMENT prefered-name (#PCDATA)>            <!-- Preferred name is plain text -->
+<!ELEMENT preferred-name (#PCDATA)>            <!-- Preferred name is plain text -->
 <!-- Student-info holds all secondary details (contact, academic, dates) to keep them organized under one section -->
 <!ELEMENT student-info (student-id, email, phone, status-year, gpa, major, minor, status-time, advisor, date-start, graduation)>
 <!ELEMENT student-id (#PCDATA)>               <!-- Student ID is plain text -->
