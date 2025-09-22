@@ -1,3 +1,4 @@
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Oswald:wght@200..700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
 
@@ -15,6 +16,7 @@ student {
   font: 200 16px 'Oswald', serif;
 }
 
+/* Show university name taken from its "name" attribute */
 university::before {
   content: attr(name);
   text-align: center;
@@ -30,6 +32,7 @@ name {
   display: inline-block;
 }
 
+/* Preferred name in parentheses; hidden if empty */
 preferred-name {
   display: inline;
 }
@@ -46,6 +49,7 @@ preferred-name:empty {
   display: none;
 }
 
+/* Layout all student-info fields side by side */
 student-info {
   display: flex;
   /* optional:
@@ -54,6 +58,7 @@ student-info {
   */
 }
 
+/* Add separators between fields for readability */
 student-id::after {
   content: ' |';
 }
@@ -86,6 +91,7 @@ gpa::before {
   content: "\00a0";
 }
 
+/* Explicit "GPA" label after value */
 gpa::after {
   content: ' GPA |';
 }
@@ -94,6 +100,7 @@ major::before {
   content: "\00a0";
 }
 
+/* Use ~ instead of | to separate major/minor */
 major::after {
   content: ' ~';
 }
